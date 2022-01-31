@@ -211,7 +211,7 @@ const App = () => {
   return (
     <div
       id="drum-machine"
-      className="flex flex-col md:flex-row items-center gap-2 justify-center p-5 h-auto bg-gradient-to-b from-gray-600 to-gray-700 rounded-md inner-container"
+      className="flex flex-col md:flex-row items-center gap-5 justify-center p-5 h-auto bg-gradient-to-b from-gray-600 to-gray-700 rounded-md inner-container"
     >
       <div className="w-[290px] bg-[#2B2C30] p-3 rounded-md">
         <PadBank
