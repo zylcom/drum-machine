@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.volume-slider input::-webkit-slider-thumb {
+  background-color: red;
+}
